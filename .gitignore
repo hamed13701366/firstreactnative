@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# OS files
+.DS_Store
+
+# Build files
+build/
